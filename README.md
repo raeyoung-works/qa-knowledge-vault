@@ -222,32 +222,12 @@ active iteration 중인 개인 실험입니다.
 
 ---
 
-## 📦 Repo 상태
-
-이 저장소는 **시스템 설계 문서를 우선 공개**한 것입니다.
-
-- ✅ **공개됨** — 본 `README.md` (전체 설계 · 운영 흐름 · 가드레일)
-- 🔜 **준비 중** — 노트 템플릿(`templates/`) · 슬래시 스킬 정의(`skills/`) · `CLAUDE.md.example`
-   → 회사 정보 제거(sanitize) 후 순차 공개 예정
-
-→ 본 시스템을 따라 만들고 싶으시면, README의 폴더 구조와 라이프사이클만 보고도 충분히 직접 구현 가능합니다.
-
----
-
 ## 📬 Contact
 
-- 📝 Blog : [상세 회고 글 링크](#)
-- 💼 LinkedIn : [프로필 링크](#)
-- ✉️ Email : raeyoung.works@gmail.com
-
----
-
-## 📜 License
-
-MIT — 시스템 설계 · 템플릿 · 스킬 정의에 한정.
-실제 vault의 개인 노트는 기밀상 포함하지 않습니다.
+- 📝 Blog : [rae-gi.tistory.com](https://rae-gi.tistory.com)
+- 💼 LinkedIn : [linkedin.com/in/raeyoung-lee](https://www.linkedin.com/in/raeyoung-lee/)
+- ✉️ Email : raeyoung.works@gmail.co
 
 ---
 
 > *경험이 휘발되지 않고 누적되도록 만들어보려는 QA 엔지니어의 실험입니다.*
-> *피드백과 fork 환영합니다.*
